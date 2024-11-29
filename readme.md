@@ -1,7 +1,3 @@
-Here's an improved version, updated for current times and modern practices:
-
----
-
 ## **Installation / Reference Material:**
 
 - **[JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/)**  
